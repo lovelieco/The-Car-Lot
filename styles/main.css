@@ -1,0 +1,12 @@
+.carContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.carCard {
+    border: solid .5px blue;
+    margin: .5em;
+    padding: .2em;
+    flex-basis: 25%;
+    background-color: orange;
+}
